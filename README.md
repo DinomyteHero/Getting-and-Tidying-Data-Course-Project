@@ -8,7 +8,7 @@ I used data from the UCI HAR Dataset(https://d396qusza40orc.cloudfront.net/getda
 to complete this project.
 
 # Objective
-The objective of the project was to first tidy the data up and then to only show the data containing the mean and standard deviation functions.
+The objective of the project was to first tidy the data up, then to merge the test and training datasets, and to only show the data containing the mean and standard deviation functions.
 They are in the form of mean() and std().
 
 # End Result
